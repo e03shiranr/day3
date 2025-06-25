@@ -1,5 +1,5 @@
 import csv
-csv_file_name = "employee.csv"
+csv_file_name = "employees.csv"
 target_department = "IT"
 print(f"Attempting to read employees from {csv_file_name} and")
 

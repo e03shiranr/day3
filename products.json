@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "id": "A1",
+            "name": "Keyboard",
+            "price": 75.0,
+            "available": true
+        },
+        {
+            "id": "A2",
+            "name": "Mouse",
+            "price": 25.5,
+            "available": false
+        },
+        {
+            "id": "A3",
+            "name": "Monitor",
+            "price": 300.0,
+            "available": true
+        },
+        {
+            "id": "A4",
+            "name": "Webcam",
+            "price": 50.0,
+            "available": true
+        },
+        {
+            "id": "A5",
+            "name": "Headphones",
+            "price": 120.0,
+            "available": false
+        }
+    ]
+}
